@@ -3,8 +3,10 @@
 <H3>EX. NO.1</H3>
 <H3>29.04.2025</H3>
 <H1 ALIGN =CENTER> Introduction to Kaggle and Data preprocessing</H1>
-## AIM:
+
+## AIM
 To perform Data preprocessing in a data set downloaded from Kaggle
+
 ## EQUIPMENTS REQUIRED:
 Hardware – PCs
 Anaconda – Python 3.7 Installation / Google Colab /Jupiter Notebook
